@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,fastq_3
+sampleX,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_001_R1.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_001_R2.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_001_R3.fq.gz
+sampleX,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_002_R1.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_002_R2.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleX_002_R3.fq.gz
+sampleY,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleY_001_R1.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleY_001_R2.fq.gz,https://github.com/singleron-RD/test_data/raw/master/scatac/sampleY_001_R3.fq.gz
